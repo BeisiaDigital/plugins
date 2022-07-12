@@ -1,3 +1,7 @@
+## 2.1.9
+
+* Fixes `NullPointerException` that crashes the app, triggered by immediately disposing widget after its creation.
+
 ## NEXT
 
 * Ignores unnecessary import warnings in preparation for [upcoming Flutter changes](https://github.com/flutter/flutter/pull/106316).
